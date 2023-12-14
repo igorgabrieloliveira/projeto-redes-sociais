@@ -1,3 +1,4 @@
+@charset "UTF-8";
 *{
     margin: 0px;
     padding:0px;
@@ -37,7 +38,7 @@ iframe#tela{
     position: relative;
     top: 79px;
     left: 21px;
-    width: 269px;
+    width: 268px;
     height: 473px;
 }
 
